@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **andresjsolis@gmail.com**
 
-- 📄 Know about my experiences [I have experience in Software QA tools and backend programming tool like Java and Python](I have experience in Software QA tools and backend programming tool like Java and Python)
+- 📄 Know about my experiences: I have experience in Software QA tools and backend programming tool like Java and Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
