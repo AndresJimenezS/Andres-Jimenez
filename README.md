@@ -1,5 +1,5 @@
 <div >
-    <h1 align="centre">Hi, I'm Andres Jimenez</h1>
+    <h1> align="center">Hi, I'm Andres Jimenez</h1>
     <h3> align="center">I'm a 25 years old Systems Engineering student. I'm a Junior software engineer, passionate about backend programming with Java or Python. In addition, I have knowledge in software QA with knowledge of tools like Selenium and Postman  </h3>
 
     
