@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Jimenez</h1>
 <h3 align="center">A passionate software engineer student</h3>
 
-- 🌱 I’m currently learning **about database and API querys with Selenium-Java**
+- 🌱 I’m currently learning **about **
 
 - 📫 How to reach me **andresjsolis@gmail.com**
 
